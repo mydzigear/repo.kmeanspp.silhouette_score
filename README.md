@@ -1,2 +1,2 @@
 # weka.kmeanspp.silhouette_score
-Silhouette score for K-Means++ clustering analysis using Weka.
+Silhouette score for K-Means++ clustering analysis using Weka code distribution [by Machine Learning Group at the University of Waikato]. Silhouette refers to a method of interpretation and validation of consistency within clusters of data. The technique provides a succinct graphical representation of how well each object lies within its cluster. It was first described by Peter J. Rousseeuw in 1986.
