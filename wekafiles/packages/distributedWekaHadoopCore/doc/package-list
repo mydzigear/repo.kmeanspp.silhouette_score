@@ -1,0 +1,5 @@
+distributed.hadoop
+weka.core.converters
+weka.distributed.hadoop
+weka.gui.beans
+weka.gui.converters

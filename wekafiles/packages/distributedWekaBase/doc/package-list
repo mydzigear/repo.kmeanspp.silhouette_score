@@ -1,0 +1,16 @@
+com.clearspring.analytics.stream.quantile
+com.clearspring.analytics.util
+distributed.core
+org.tc33.jheatchart
+weka.classifiers
+weka.classifiers.evaluation
+weka.classifiers.meta
+weka.clusterers
+weka.core
+weka.core.converters
+weka.core.stats
+weka.distributed
+weka.distributed.clusterers
+weka.filters
+weka.filters.unsupervised.attribute
+weka.gui.beans
